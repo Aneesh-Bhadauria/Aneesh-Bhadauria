@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aneesh-Bhadauria
-- 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning Java , Kotlin,Android
+- 👀 I’m interested in Web and Frontend Development
+- 🌱 I’m currently learning Java, DSA , JS , HTML/CSS , React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
